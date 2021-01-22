@@ -8,13 +8,13 @@ Some modification is made on Gensim library for making it compatible with Persia
 
 ## Python pagages versions you need to install on your device
 
-`pip install six == 1.11.0`
+`pip install six==1.11.0`
 
-`pip install gensim == 3.1.0`
+`pip install gensim==3.1.0`
 
-`pip install numpy == 1.11.3`
+`pip install numpy==1.11.3`
 
-`pip install scipy == 1.0.0`
+`pip install scipy==1.0.0`
 
 `pip install hazm==0.5.2`
 
